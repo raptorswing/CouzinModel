@@ -1,0 +1,1 @@
+Use QtCreator or qmake and your favorite C++ compiler to build. Should build on any platform with Qt libraries. (Windows, Linux, OS X, etc.)
